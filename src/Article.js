@@ -7,7 +7,8 @@ class  Article extends React.Component{
         return(
             <div>
                 <h2>Titulo de Article</h2>
-            <p>Officia do sint Lorem cupidatat fugiat dolor esse laborum. 
+            <p>
+                Officia do sint Lorem cupidatat fugiat dolor esse laborum. 
                 Qui nulla ex adipisicing culpa consequat aliqua sint ipsum 
                 nostrud officia occaecat excepteur minim. Dolore eiusmod 
                 cupidatat aute anim nulla est elit cupidatat pariatur. Magna 
